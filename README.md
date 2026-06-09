@@ -5,17 +5,7 @@ ISTY — IATIC3 — Année universitaire 2025/2026
 
 ---
 
-## Équipe
 
-| Membre | Rôle |
-|---|---|
-| Habib Znaidi | Shell & parsing des commandes |
-| Adam Fakhr | Structures de données |
-| Rayen Hmida | Gestion des fichiers |
-| Oussama Aouane | Gestion des répertoires |
-| Mehdi Zerdi | Sauvegarde, chargement & tests |
-
----
 
 ## Description
 
